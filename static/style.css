@@ -1,0 +1,42 @@
+html, body {
+  overflow-y: hidden;
+  height: 100%;
+  background-color: #B2EBF2;
+}
+
+.headerDiv {
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  margin-top: 1%;
+  margin-right: 5%;
+  margin-left: 5%;
+}
+
+.heading {
+  display: flex;
+  font-size: 70px;
+  font-style: italic;
+  color: #006064;
+}
+
+.dropdownDiv {
+  display: flex;
+  font-size: 70px;
+}
+
+.chatbox {
+  overflow-y: scroll;
+  width: 90%;
+  height: 75%;
+  margin-left: 5%;
+  border: 1px solid black;
+  border-radius: 5px;
+  box-shadow: 5px 5px 15px #00838F;
+  background-color: #FFFFFF;
+}
+
+.chatText {
+  padding: 20px;
+  font-size: 20px;
+}

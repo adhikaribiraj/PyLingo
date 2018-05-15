@@ -1,0 +1,4 @@
+RUS: Hi, Tony, how are you? Are you going to school today?
+ENG: Hi Max, yes I am going to school today, my first class is in an hour. I am going to the engineering building.
+RUS: That building is very far away. Can you drive a car?
+ENG: Yes I can drive. I always park in the parking lot near the computer science building.
